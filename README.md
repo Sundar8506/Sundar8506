@@ -178,16 +178,16 @@ Mount Zion College of Engineering and Technology
 
 ## 📊 GitHub Stats
 
-![Sundhareshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sundar8506\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar8506\&layout=compact\&hide_border=true)
-
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
 ---
 
 ## 🤝 Connect With Me
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/sundhareshan-k-6b0908259/
+https://www.linkedin.com/in/sundar8506/
 
 🌐 **Portfolio:**
 https://sundhareshanportfolio.netlify.app/
